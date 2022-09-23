@@ -7,8 +7,7 @@
  ### Technical Background:
 
 * I have over 3 years of work experience in Google. 
-* Devoloping front end features and components using front end libraries 
-* like html, Css.
+* Devoloping front end features and components using front end libraries  like html, Css.
 * Document all tha task completed with in the sprint.
 * Assigning the bugs and resolving them in the order of priority.
 
