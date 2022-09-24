@@ -1,1 +1,1 @@
-# Dilip kumar vavilapalli.github.io
+# vavilapalli.github.io
